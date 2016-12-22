@@ -1,0 +1,2 @@
+<p>About the Home Page Search:</p>
+<p>The library's search engine: easy, one-stop searching for books, articles, digital media, and more.</p>
